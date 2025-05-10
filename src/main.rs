@@ -1,4 +1,4 @@
-// use std::io;
+use std::io;
 
 fn main() 
 {
@@ -12,3 +12,4 @@ fn main()
 
     println!("You guessed: {}", guess);
 }
+
